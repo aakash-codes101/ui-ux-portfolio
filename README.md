@@ -2,7 +2,7 @@ This is a website that I built for a hostel
 and the website is already live
 Link to the website: https://www.hmrhostels.com/
 
-> **A modern, user-centric web application designed to simplify the hostel discovery process for students in Greater Noida.**
+> **A modern, user-centric web application designed to mange students on the website with admin and students login options.**
 
 This project was built with a strong emphasis on **UI/UX design principles, seamless interactions, and mobile-first accessibility**. It serves as a portfolio piece demonstrating my ability to translate user needs into intuitive, beautiful digital experiences using modern frontend technologies.
 
